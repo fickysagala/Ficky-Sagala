@@ -1,2 +1,0 @@
-# Ficky-Sagala
-titanic
